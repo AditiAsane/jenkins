@@ -1,4 +1,4 @@
-```java
+
 package com.example;
 
 public class App {
@@ -10,4 +10,4 @@ public class App {
         System.out.println(getMessage());
     }
 }
-```
+
